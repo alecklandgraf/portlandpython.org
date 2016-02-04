@@ -7,7 +7,7 @@
     "django"
   ],
   "website": "https://portlandpython.org",
-  "repository": "https://github.com/alecklandgraf/portlandpython.org",
+  "repository": "https://github.com/portlandpython/portlandpython.org",
   "logo": "https://wiki.python.org/wiki/europython/img/python-logo.gif",
   "success_url": "/",
   "env": {
